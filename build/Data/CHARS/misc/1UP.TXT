@@ -1,12 +1,15 @@
 name	1up
-health	0
+health  10000000000000
 type	item
 shadow	0
 icon	data/chars/misc/cakeicon.gif
 
-anim idle
+anim	idle
 	loop	0
 	delay	1000
 	offset	11 18
 	bbox	0 0 22 18
 	frame	data/chars/misc/cake.gif
+		
+#|edited by openBor Stats v 0.67
+		
