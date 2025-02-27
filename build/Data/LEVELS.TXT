@@ -12,10 +12,12 @@ set kerry_Demo
 scene data/scenes/howto.txt
 file data/levels/bob.txt
 next
-scene data/scenes/ending.txt
+scene data /scenes/ending.txt
 
 set	DBH_Course_Test
 
+file    data/levels/mania.txt
+next
 file    data/levels/bob.txt
 file	data/levels/example1.txt
 next
